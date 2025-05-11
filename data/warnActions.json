@@ -1,0 +1,12 @@
+[
+    {
+      "count": 3,
+      "action": "mute",
+      "duration": 10
+    },
+    {
+      "count": 5,
+      "action": "ban"
+    }
+  ]
+  
